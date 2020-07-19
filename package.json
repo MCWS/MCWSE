@@ -1,0 +1,14 @@
+{
+  "name": "mcws-script-loader",
+  "version": "0.0.1",
+  "description": "This program provide various interface to create your own scripts and run them in MCBE by using chat commands.",
+  "main": "Main.js",
+  "author": "",
+  "license": "AGPL-3.0",
+  "dependencies": {
+    "commander": "^5.0.0",
+    "nbt": "^0.8.1",
+    "ndarray": "^1.0.19",
+    "ws": "^7.2.3"
+  }
+}
