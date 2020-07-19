@@ -22,7 +22,7 @@ Remember this ip and port the server running at, then open your Minecraft Bedroc
 ```
 /connect xxx.xxx.xxx.xxx:8080
 ```
-Inside the game, use `getpos` (chat command) to get your position
+Inside the game, use ```getpos``` (chat command) to get your position
 
 There are 3 preset scripts you are aviable to use: `func nbt sche`
 
