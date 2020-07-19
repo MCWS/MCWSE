@@ -63,7 +63,7 @@ Close the websocket connection
 ```
 speed <0/1/2/3>
 ```
-Modify the generate speed (default is 0)
+Modify the generate speed (default is 1)
 ```
 ./<Minecraft Command>
 ```
