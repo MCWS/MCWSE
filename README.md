@@ -19,7 +19,7 @@ Then you'll see something like this on your console
 [12:00:00] Loaded script sche
 ```
 Remember this ip and port the server running at, then open your Minecraft Bedrock Edition, type this 
-```mcfunction
+```
 /connect xxx.xxx.xxx.xxx:8080
 ```
 Inside the game, use `getpos` (chat command) to get your position
