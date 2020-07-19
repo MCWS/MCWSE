@@ -24,7 +24,7 @@ Remember this ip and port the server running at, then open your Minecraft Bedroc
 ```
 Inside the game, use ```getpos``` (chat command) to get your position
 
-There are 3 preset scripts you are aviable to use: `func nbt sche`
+There are 3 preset scripts you are aviable to use: ```func nbt sche```
 
 Type the script name to see the usage of each command
 
@@ -37,7 +37,7 @@ nbt -z ./nbt/maincity.nbt
 ```
 This will show you :
 
-1. Usage of `nbt`
+1. Usage of ```nbt```
 2. A list of nbt in the nbt folder
 
 And then the server will parse and build the **maincity.nbt** at your position.
