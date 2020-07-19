@@ -106,4 +106,6 @@ Generate a nbt file at your position
 
 You can also write your own script to run command in MCPE via our APIs (comming soon)
 
-If you have any problem while using this program, email me at 2033161737@qq.com
+---
+
+If you have any problem while using this program, email me at 2033161737@qq.com (or using QQ:2033161737(Sparks))
